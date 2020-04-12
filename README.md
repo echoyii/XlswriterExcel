@@ -1,0 +1,2 @@
+# XlswriterExcel
+高性能XlswriterExcel拓展用于excel导出，导出时有效减少内存开销

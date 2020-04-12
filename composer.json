@@ -1,0 +1,21 @@
+{
+    "name": "echoyii/XlswriterExcel",
+    "description": "XlswriterExcel tool",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "lijinbao",
+            "email": "651738941@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "echoyii\\": "src/"
+        }
+    }
+}
